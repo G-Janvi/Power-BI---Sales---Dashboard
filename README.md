@@ -1,27 +1,61 @@
 # Power-BI---Sales---Dashboard
 Sales analysis dashboard created using Power BI
 
-## 📊 Project Overview
-This project analyzes sales data to identify trends, performance by category,
-region-wise sales, and profitability using Power BI.
+## 🔍 Project Overview
+This project focuses on analyzing sales data to uncover meaningful business insights using **Power BI**.
+An interactive dashboard was built to track key performance indicators (KPIs), understand sales trends,
+and evaluate performance across categories, regions, and time.
 
-## 🔑 KPIs
-- Total Sales
-- Total Profit
-- Total Orders
-- Average Order Value (AOV)
+The purpose of this project is to demonstrate **data analysis, visualization, and business intelligence skills**.
+
+---
+
+## 🎯 Objectives
+- Monitor overall sales and profit performance  
+- Identify top-performing categories and regions  
+- Analyze sales trends over time  
+- Build a clean, interactive, and business-ready dashboard  
+
+---
+
+## 🔑 Key KPIs
+- Total Sales  
+- Total Profit  
+- Total Orders  
+- Average Order Value (AOV)  
+
+---
 
 ## 📈 Dashboard Features
-- Interactive slicers (Year, Category, Region, Segment)
-- KPI cards
-- Pie, bar, and line charts
-- Clean and business-ready layout
+- Interactive slicers (Year, Category, Region)
+- KPI cards for quick insights
+- Pie charts for category/segment distribution
+- Bar charts for regional performance
+- Line chart for monthly sales trends
+- Clean and professional dashboard layout
 
-## 🛠 Tools Used
-- Power BI
-- Excel / CSV
-- DAX
-  
+---
+
+## 🧠 Key Insights
+- Certain categories contribute the highest revenue and profit
+- Regional performance varies significantly
+- Sales trends over time support data-driven decision-making
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI  
+- DAX  
+- Excel / CSV  
+- Data Visualization & Business Intelligence  
+
+---
+
+## 📂 Project Files
+- `Sales Analysis 2.pbix` – Power BI dashboard file  
+- `Sales data 2.csv / .xlsx` – Dataset used for analysis  
+- `Dashboard_Overview.png / .jpg` – Dashboard screenshots  
+
 ## 📷 Dashboard Preview
-<img width="1278" height="725" alt="Daghboard_Overview png" src="https://github.com/user-attachments/assets/e5609c76-abb6-4774-aba7-7773ad592819" />
-<img width="1087" height="138" alt="KPI_Insight png" src="https://github.com/user-attachments/assets/4e6f9eb4-1854-4c0b-87cd-dcd27b567cc7" />
+<img width="1278" height="725" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/115e628a-8088-49d5-96ec-8ce881515963" />
+<img width="1087" height="138" alt="KPI_Insight" src="https://github.com/user-attachments/assets/e6b1cd1d-369a-46c3-8a97-77469f52b2f0" />
